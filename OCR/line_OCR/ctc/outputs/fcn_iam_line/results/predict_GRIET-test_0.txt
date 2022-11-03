@@ -1,0 +1,8 @@
+nb_samples: 1
+nb_chars: 41
+cer: 3.3415
+nb_words: 6
+wer: 1.0
+worst_cer: [[137, 0]]
+total_time: 1.347
+sample_time: 1.3471
